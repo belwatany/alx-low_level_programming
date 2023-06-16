@@ -5,7 +5,8 @@
 /**
  * main - Entry point
  *
- * Description: The last digit
+ * Description: print the value of n status:
+ * 		greater than, is zero and is not less than 6.
  *
  * Return: Alawys 0 (Success)
 */
