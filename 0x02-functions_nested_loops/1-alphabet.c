@@ -2,7 +2,7 @@
 
 /**
  * Main - Entry point
- * Description: C - Functions, nested loops
+ * Description: print_alphabet - print all alphabet in lowercase
  * Return: Always 0 (Success)
 */
 
