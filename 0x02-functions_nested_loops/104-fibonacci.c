@@ -1,9 +1,12 @@
 #include <stdio.h>
+
 /**
- * Main - Entry point
- * Description: C - Functions, nested loops
- * Return: Always 0 (Success)
-*/
+ * main - fibonacci <3
+ *
+ * Purpose - no hardcode
+ *
+ * Return:  (Success)
+ */
 
 int main(void)
 {

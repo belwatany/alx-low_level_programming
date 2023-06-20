@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * Main - Entry point
- * Description: C - Functions, nested loops
- * Return: Always 0 (Success)
-*/
-
+ * print_last_digit - prints the last digit of a number
+ * @n: the int to extract the last digit from
+ * Return: value of the last digit
+ */
 int print_last_digit(int n)
 {
 	int a;

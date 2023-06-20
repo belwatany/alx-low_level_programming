@@ -1,7 +1,6 @@
 /*
- * Main - Entry point
- * Description: C - Functions, nested loops
- * Return: Always 0 (Success)
+ * File: 101-natural.c
+ * Auth: vincent kip
  */
 
 #include <stdio.h>

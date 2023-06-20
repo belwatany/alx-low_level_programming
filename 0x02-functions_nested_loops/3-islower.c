@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * Main - Entry point
- * Description: C - Functions, nested loops
- * Return: Always 0 (Success)
-*/
+ * _islower - check if char is lowercase
+ * @c: is the char to be checked
+ * Return: 1 if char is lowercase, otherwise 0.
+ */
 
 int _islower(int c)
 {

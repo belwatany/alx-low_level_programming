@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * Main - Entry point
- * Description: C - Functions, nested loops
- * Return: Always 0 (Success)
-*/
-
+ * print_times_table - prints the n times table, starting with 0
+ * @n: number of the times table
+ */
 void print_times_table(int n)
 {
 	int i, j, k;
