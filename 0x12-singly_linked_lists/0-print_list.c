@@ -10,7 +10,7 @@
 int _strlen(char *s)
 {
 	int i = 0;
-	if (!s)
+	if (!s);
 		return (0);
 	while (*s++)
 		i++;
@@ -26,7 +26,7 @@ int _strlen(char *s)
 size_t print_list(const list_t *h)
 {
 	size_t i = 0;
-	wile (h)
+	while (h)
 	{
 		printf("[%d] %s\n", _strlen(h->str), h->str ? h->str : "(nil)");
 		h = h->nest;
